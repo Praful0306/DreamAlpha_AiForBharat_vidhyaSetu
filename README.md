@@ -96,7 +96,7 @@ uvicorn app.main:app --reload
 
 ---
 
-## 🤝 The Team
-Built with ❤️ for the **AWS Global Vibe AI Coding Hackathon 2025**. 
+## 🤝 The Team DreamAlpha
+Built with ❤️ for the **AWS Global AI Coding Hackathon **. 
 
 We believe that access to personalized, culturally-aware, and cutting-edge education is a fundamental human right, not a privilege determined by zip code. Vidya-Setu is our bridge to that future.
