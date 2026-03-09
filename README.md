@@ -99,4 +99,4 @@ uvicorn app.main:app --reload
 ## 🤝 The Team DreamAlpha
 Built with ❤️ for the **AWS Global AI Coding Hackathon **. 
 
-We believe that access to personalized, culturally-aware, and cutting-edge education is a fundamental human right, not a privilege determined by zip code. Vidya-Setu is our bridge to that future.
+We believe that access to personalized, culturally-aware, and cutting-edge education is a fundamental human right, not a privilege determined by zip code. Vidya-Setu is our bridge to that future. Vidya-Setu is more than a hackathon project; it is a production-ready blueprint for the future of education in the Global South. By fusing the unmatched reasoning capabilities of Amazon Bedrock with the bulletproof scalability of the AWS Serverless ecosystem, we have engineered a system that teaches, mentors, and adapts to every single student—regardless of their background, language, or bandwidth.
